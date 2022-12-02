@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @titasbhukta
-- 👀 I’m interested in Web Development, Python
+- 👀 I’m interested in Web Development, CSS, Python
 - 🌱 I’m currently learning Python, MERN Stack
 - 💞️ I’m looking to collaborate on MERN Stack Projects
 - 📫 How to reach me - bhukta.titas@gmail.com
