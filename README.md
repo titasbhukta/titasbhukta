@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on MERN Stack Projects
 - 📫 How to reach me - bhukta.titas@gmail.com
 
-<p align="left"> 
+<p align="left">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/titasbhukta/count.svg" />
 </p>
